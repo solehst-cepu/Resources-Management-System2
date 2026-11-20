@@ -1,0 +1,8 @@
+{
+  "name": "Lazuardi Resources Management System (LRMS)",
+  "description": "One Portal, All Resources Services — Sistem manajemen layanan operasional sekolah Divisi Resources Lazuardi untuk air galon, fotokopi, laminating, inventaris, dan pelaporan unit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
